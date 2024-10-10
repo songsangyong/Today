@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="홈"
+        />
+    <item
+        android:id="@+id/fragment_search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="검색"
+        />
+    <item
+        android:id="@+id/fragment_favorite"
+        android:icon="@drawable/baseline_favorite_border_24"
+        android:title="즐겨찾기"
+        />
+    <item
+        android:id="@+id/fragment_settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="설정"
+        />
+</menu>
